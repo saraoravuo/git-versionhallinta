@@ -3,7 +3,8 @@ html {
 }
 
 body {
-  background-color:rgb(198, 107, 137);
+  background-color:rgb(96, 37, 56);
+  font-family: 'Times New Roman', Times, serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
