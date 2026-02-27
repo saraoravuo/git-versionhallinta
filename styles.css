@@ -11,6 +11,14 @@ body {
   height: 100%;
 }
 
+button {
+  background-color: rgb(88, 88, 202);
+  color: white;
+  margin: 10px;
+  padding: 8px;
+  border-radius: 8px;
+}
+
 main {
   text-align: center;
 }
